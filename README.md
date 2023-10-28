@@ -1,6 +1,6 @@
 </hr>
 <div align="center">
-  <h3>Hi, I' m Karan Jarwal 🖐</p> </h3>
+  <h3>Hi, I' m Ashutosh Dubey 🖐</p> </h3>
   <a href="https://git.io/typing-svg"><img
       src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=29F249&width=435&lines=PASSIONATE+FULL+STACK+WEB+DEVELOPER;LEARNING+DESIGNING+;AND+DEVELOPMENT.."
       alt="Typing SVG" /></a>
@@ -11,12 +11,12 @@
 </div>
 <h2 align='center'> Connect with me ⬇️</h2>
 <div  style="display:flex; gap:20px" align="center">
-  <a  href="mailto:karanjarwal999@gmail.com" target="_blank">
+  <a  href="mailto:ashutoshdubey7982@gmail.com" target="_blank">
     <img
       src=https://www.google.com/gmail/about/static-2.0/images/logo-gmail.png?fingerprint=c2eaf4aae389c3f885e97081bb197b97
       alt=github style="height: 30px;" />
   </a>
-  <a href="https://www.linkedin.com/in/karan-jarwal-86b890230/" target="_blank">
+  <a href="https://https://www.linkedin.com/in/ashutosh-dubey-a62154257/" target="_blank">
     <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white
       alt=linkedin style="margin-bottom: 5px;" />
   </a>
@@ -25,7 +25,7 @@
 <br />
 <div align="center">
   <h2> Checkout my Portfolio ⬇️</h2>
-  <a href="https://karanjarwal999.github.io/" target="_blank">
+  <a href="https://ashu7982.github.io/" target="_blank">
     <img
       src="https://img.shields.io/static/v1?message=Portfolio&logo=patreon&label=&color=F96854&logoColor=white&labelColor=&style=for-the-badge"
       height="35" alt="patreon logo" />
