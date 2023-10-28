@@ -16,7 +16,7 @@
       src=https://www.google.com/gmail/about/static-2.0/images/logo-gmail.png?fingerprint=c2eaf4aae389c3f885e97081bb197b97
       alt=github style="height: 30px;" />
   </a>
-  <a href="https://https://www.linkedin.com/in/ashutosh-dubey-a62154257/" target="_blank">
+  <a href="https://www.linkedin.com/in/ashutosh-dubey-a62154257/" target="_blank">
     <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white
       alt=linkedin style="margin-bottom: 5px;" />
   </a>
