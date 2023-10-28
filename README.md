@@ -134,17 +134,17 @@
   <br />
   <div style="display: flex; flex-direction:column; justify-content: center;">
     <p><img
-       src="https://github-readme-streak-stats.herokuapp.com/?user=karanjarwal999&theme=tokyonight"
-      alt="karanjarwal999" /></p>
+       src="https://github-readme-streak-stats.herokuapp.com/?user=ashu7982&theme=tokyonight"
+      alt="ashu7982" /></p>
     <p>
        <img 
-        src="https://github-readme-stats.vercel.app/api?username=karanjarwal999&theme=tokyonight&show_icons=true&locale=en"
-        alt="karanjarwal999" /> 
+        src="https://github-readme-stats.vercel.app/api?username=ashu7982&theme=tokyonight&show_icons=true&locale=en"
+        alt="ashu7982" /> 
     </p>
   </div>
   <p><img 
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=karanjarwal999&theme=tokyonight&show_icons=true&locale=en&layout=compact"
-        alt="karanjarwal999" /></p>
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=ashu7982&theme=tokyonight&show_icons=true&locale=en&layout=compact"
+        alt="ashu7982" /></p>
   <br />
 
   <br />
